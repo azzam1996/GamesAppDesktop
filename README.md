@@ -19,3 +19,8 @@ Desktop App that uses [Compose Multiplatform](https://www.jetbrains.com/lp/compo
 serialize feed data and store it locally
 * [**Koin**](https://github.com/InsertKoinIO/koin): Lightweight dependency injection framework
 * [**compose-imageloader**](https://github.com/qdsfdhvh/compose-imageloader): Image loading library
+
+# Video
+
+https://github.com/azzam1996/GamesAppDesktop/assets/59395628/6353c0c9-b37d-461e-b2da-e81a688fa48a
+
